@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\TIC\TIC\bin\Debug\TIC.exe.config
+C:\Users\Usuario\source\repos\TIC\TIC\bin\Debug\TIC.exe
+C:\Users\Usuario\source\repos\TIC\TIC\bin\Debug\TIC.pdb
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.Form1.resources
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.exe
+C:\Users\Usuario\source\repos\TIC\TIC\obj\Debug\TIC.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIC", "TIC\TIC.csproj", "{2C681946-3998-4760-B4B9-92E6A94C6D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C681946-3998-4760-B4B9-92E6A94C6D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C681946-3998-4760-B4B9-92E6A94C6D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C681946-3998-4760-B4B9-92E6A94C6D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C681946-3998-4760-B4B9-92E6A94C6D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887C655D-A8F0-446F-AC98-E43CD7E940CB}
+	EndGlobalSection
+EndGlobal
